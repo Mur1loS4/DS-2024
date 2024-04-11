@@ -1,0 +1,3 @@
+brinquedo,100.0, um brinquedo de plastico, 10
+nike,500.0, mt loko, 1
+camisa,400.0, foda, 2
